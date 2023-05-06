@@ -1,7 +1,9 @@
 """Ejercicio de python para Víctor"""
 
-print(hola)
-print('hola' variable1)
-exit(hola)
+
+variable1 = 'Soy javier'
+print('hola')
+print('hola', variable1)
 for x in range(3):
 print(x)
+exit(hola)
